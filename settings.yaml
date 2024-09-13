@@ -1,0 +1,7 @@
+libraries:
+  movie-test:
+    type: movies
+    path: "/Users/luca/Documents/libremedia-cli/libremedia/test/movies"
+  tvshow-test:
+    type: tvshows
+    path: "/Users/luca/Documents/libremedia-cli/libremedia/test/tvshows"
